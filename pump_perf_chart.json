@@ -1,0 +1,1364 @@
+{
+  "count": 30,
+  "charts": [
+    {
+      "chart_id": 0,
+      "chart_title": "Injector Head 560 - 1.25 ID Ext Hoses 140 - ft, Standard",
+      "x_min": 0,
+      "x_max": 60000,
+      "x_inc": 10000,
+      "y_min": 0,
+      "y_max": 180,
+      "y_inc": 30,
+      "chart_data": [
+        {
+          "curve_id": 0,
+          "label": "560 in Low Gear with Small Pump",
+          "injector_pull": [ 0, 56284 ],
+          "coiled_tubing_speed": [ 41.5, 41.5 ]
+        },
+        {
+          "curve_id": 1,
+          "label": "560 in Low Gear with Large Pump",
+          "injector_pull": [ 0, 56284 ],
+          "coiled_tubing_speed": [ 92.0, 92.0 ]
+        },
+        {
+          "curve_id": 3,
+          "label": "560 in High Gear with Small Pump",
+          "injector_pull": [ 0, 37385 ],
+          "coiled_tubing_speed": [ 61.5, 61.5 ]
+        },
+        {
+          "curve_id": 4,
+          "label": "560 in High Gear with Large Pump",
+          "injector_pull": [ 0, 37385 ],
+          "coiled_tubing_speed": [ 127.3, 127.3 ]
+        },
+        {
+          "curve_id": 5,
+          "label": "560 in High Gear with Both Pump",
+          "injector_pull": [ 0, 37385 ],
+          "coiled_tubing_speed": [ 174.0, 174.0 ]
+        }
+      ]
+    },
+    {
+      "chart_id": 1,
+      "chart_title": "Injector Head 560 - 1.5 ID Ext Hoses 140 - ft, Standard",
+      "x_min": 0,
+      "x_max": 60000,
+      "x_inc": 10000,
+      "y_min": 0,
+      "y_max": 180,
+      "y_inc": 30,
+      "chart_data": [
+        {
+          "curve_id": 0,
+          "label": "560 in Low Gear with Small Pump",
+          "injector_pull": [ 0, 56284 ],
+          "coiled_tubing_speed": [ 41.5, 41.5 ]
+        },
+        {
+          "curve_id": 1,
+          "label": "560 in Low Gear with Large Pump",
+          "injector_pull": [ 0, 56284 ],
+          "coiled_tubing_speed": [ 92.4, 92.4 ]
+        },
+        {
+          "curve_id": 3,
+          "label": "560 in High Gear with Small Pump",
+          "injector_pull": [ 0, 37385 ],
+          "coiled_tubing_speed": [ 61.5, 61.5 ]
+        },
+        {
+          "curve_id": 4,
+          "label": "560 in High Gear with Large Pump",
+          "injector_pull": [ 0, 37385 ],
+          "coiled_tubing_speed": [ 127.6, 127.6 ]
+        },
+        {
+          "curve_id": 5,
+          "label": "560 in High Gear with Both Pump",
+          "injector_pull": [ 0, 37385 ],
+          "coiled_tubing_speed": [ 175.2, 175.2 ]
+        }
+      ]
+    },
+    {
+      "chart_id": 2,
+      "chart_title": "Injector Head 580 - 1.25 ID Ext Hoses 140 - ft, Standard",
+      "x_min": 0,
+      "x_max": 80000,
+      "x_inc": 10000,
+      "y_min": 0,
+      "y_max": 180,
+      "y_inc": 30,
+      "chart_data": [
+        {
+          "curve_id": 0,
+          "label": "580 in Low Gear with Small Pump",
+          "injector_pull": [ 0, 74771 ],
+          "coiled_tubing_speed": [ 30.7, 30.7 ]
+        },
+        {
+          "curve_id": 1,
+          "label": "580 in Low Gear with Large Pump",
+          "injector_pull": [ 0, 74771 ],
+          "coiled_tubing_speed": [ 70.9, 70.9 ]
+        },
+        {
+          "curve_id": 3,
+          "label": "580 in High Gear with Small Pump",
+          "injector_pull": [ 0, 48889 ],
+          "coiled_tubing_speed": [ 46.1, 46.1 ]
+        },
+        {
+          "curve_id": 4,
+          "label": "580 in High Gear with Large Pump",
+          "injector_pull": [ 0, 48889 ],
+          "coiled_tubing_speed": [ 100.7, 100.7 ]
+        },
+        {
+          "curve_id": 5,
+          "label": "580 in High Gear with Both Pump",
+          "injector_pull": [ 0, 48889 ],
+          "coiled_tubing_speed": [ 137.4, 137.4 ]
+        }
+      ]
+    },
+    {
+      "chart_id": 5,
+      "chart_title": "Injector Head 5100 - 1.5 ID Ext Hoses 140 - ft, Standard",
+      "x_min": 0,
+      "x_max": 100000,
+      "x_inc": 10000,
+      "y_min": 0,
+      "y_max": 150,
+      "y_inc": 30,
+      "chart_data": [
+        {
+          "curve_id": 0,
+          "label": "5100 in Low Gear with Small Pump",
+          "injector_pull": [ 0, 89150 ],
+          "coiled_tubing_speed": [ 25.8, 25.8 ]
+        },
+        {
+          "curve_id": 1,
+          "label": "5100 in Low Gear with Large Pump",
+          "injector_pull": [ 0, 89150 ],
+          "coiled_tubing_speed": [ 60.8, 60.8 ]
+        },
+        {
+          "curve_id": 3,
+          "label": "5100 in High Gear with Small Pump",
+          "injector_pull": [ 0, 53408 ],
+          "coiled_tubing_speed": [ 43.0, 43.0 ]
+        },
+        {
+          "curve_id": 4,
+          "label": "5100 in High Gear with Large Pump",
+          "injector_pull": [ 0, 53408 ],
+          "coiled_tubing_speed": [ 95.3, 95.3 ]
+        },
+        {
+          "curve_id": 5,
+          "label": "5100 in High Gear with Both Pump",
+          "injector_pull": [ 0, 53408 ],
+          "coiled_tubing_speed": [ 130.5, 130.5 ]
+        }
+      ]
+    },
+    {
+      "chart_id": 11,
+      "chart_title": "Injector Head 6140 - 1.5 ID Ext Hoses 140 - ft, Standard",
+      "x_min": 0,
+      "x_max": 140000,
+      "x_inc": 20000,
+      "y_min": 0,
+      "y_max": 150,
+      "y_inc": 30,
+      "chart_data": [
+        {
+          "curve_id": 0,
+          "label": "6140 in Low Gear with Small Pump",
+          "injector_pull": [ 0, 126535 ],
+          "coiled_tubing_speed": [ 19.7, 19.7 ]
+        },
+        {
+          "curve_id": 1,
+          "label": "6140 in Low Gear with Large Pump",
+          "injector_pull": [ 0, 126535 ],
+          "coiled_tubing_speed": [ 47.5, 47.5 ]
+        },
+        {
+          "curve_id": 3,
+          "label": "6140 in High Gear with Small Pump",
+          "injector_pull": [ 0, 57516 ],
+          "coiled_tubing_speed": [ 43.0, 43.0 ]
+        },
+        {
+          "curve_id": 4,
+          "label": "6140 in High Gear with Large Pump",
+          "injector_pull": [ 0, 57516 ],
+          "coiled_tubing_speed": [ 95.4, 95.4 ]
+        },
+        {
+          "curve_id": 5,
+          "label": "6140 in High Gear with Both Pump",
+          "injector_pull": [ 0, 57516 ],
+          "coiled_tubing_speed": [ 130.7, 130.7 ]
+        }
+      ]
+    },
+    {
+      "chart_id": 20,
+      "chart_title": "Injector Head 560 - 1.25 ID Ext Hoses 140 - ft, Incremental",
+      "x_min": 0,
+      "x_max": 70000,
+      "x_inc": 10000,
+      "y_min": 0,
+      "y_max": 180,
+      "y_inc": 30,
+      "chart_data": [
+        {
+          "curve_id": 0,
+          "label": "560 in Low Gear with Small Pump",
+          "injector_pull": [ 0, 59024 ],
+          "coiled_tubing_speed": [ 41.5, 41.5 ]
+        },
+        {
+          "curve_id": 1,
+          "label": "560 in Low Gear with Large Pump",
+          "injector_pull": [ 0, 59024 ],
+          "coiled_tubing_speed": [ 74.0, 74.0 ]
+        },
+        {
+          "curve_id": 3,
+          "label": "560 in High Gear with Small Pump",
+          "injector_pull": [ 0, 39205 ],
+          "coiled_tubing_speed": [ 61.5, 61.5 ]
+        },
+        {
+          "curve_id": 4,
+          "label": "560 in High Gear with Large Pump",
+          "injector_pull": [ 0, 39205 ],
+          "coiled_tubing_speed": [ 109.6, 109.6 ]
+        },
+        {
+          "curve_id": 5,
+          "label": "560 in High Gear with Both Pump",
+          "injector_pull": [ 0, 39205 ],
+          "coiled_tubing_speed": [ 169.0, 169.0 ]
+        }
+      ]
+    },
+    {
+      "chart_id": 21,
+      "chart_title": "Injector Head 560 - 1.5 ID Ext Hoses 140 - ft, Incremental",
+      "x_min": 0,
+      "x_max": 70000,
+      "x_inc": 10000,
+      "y_min": 0,
+      "y_max": 180,
+      "y_inc": 30,
+      "chart_data": [
+        {
+          "curve_id": 0,
+          "label": "560 in Low Gear with Small Pump",
+          "injector_pull": [ 0, 59024 ],
+          "coiled_tubing_speed": [ 41.6, 41.6 ]
+        },
+        {
+          "curve_id": 1,
+          "label": "560 in Low Gear with Large Pump",
+          "injector_pull": [ 0, 59024 ],
+          "coiled_tubing_speed": [ 74.4, 74.4 ]
+        },
+        {
+          "curve_id": 3,
+          "label": "560 in High Gear with Small Pump",
+          "injector_pull": [ 0, 39205 ],
+          "coiled_tubing_speed": [ 61.7, 61.7 ]
+        },
+        {
+          "curve_id": 4,
+          "label": "560 in High Gear with Large Pump",
+          "injector_pull": [ 0, 39205 ],
+          "coiled_tubing_speed": [ 110.2, 110.2 ]
+        },
+        {
+          "curve_id": 5,
+          "label": "560 in High Gear with Both Pump",
+          "injector_pull": [ 0, 39205 ],
+          "coiled_tubing_speed": [ 170.5, 170.5 ]
+        }
+      ]
+    },
+    {
+      "chart_id": 22,
+      "chart_title": "Injector Head 580 - 1.25 ID Ext Hoses 140 - ft, Incremental",
+      "x_min": 0,
+      "x_max": 90000,
+      "x_inc": 10000,
+      "y_min": 0,
+      "y_max": 180,
+      "y_inc": 30,
+      "chart_data": [
+        {
+          "curve_id": 0,
+          "label": "580 in Low Gear with Small Pump",
+          "injector_pull": [ 0, 78411 ],
+          "coiled_tubing_speed": [ 30.7, 30.7 ]
+        },
+        {
+          "curve_id": 1,
+          "label": "580 in Low Gear with Large Pump",
+          "injector_pull": [ 0, 78411 ],
+          "coiled_tubing_speed": [ 54.8, 54.8 ]
+        },
+        {
+          "curve_id": 3,
+          "label": "580 in High Gear with Small Pump",
+          "injector_pull": [ 0, 51269 ],
+          "coiled_tubing_speed": [ 46.1, 46.1 ]
+        },
+        {
+          "curve_id": 4,
+          "label": "580 in High Gear with Large Pump",
+          "injector_pull": [ 0, 51269 ],
+          "coiled_tubing_speed": [ 82.2, 82.2 ]
+        },
+        {
+          "curve_id": 5,
+          "label": "580 in High Gear with Both Pump",
+          "injector_pull": [ 0, 51269 ],
+          "coiled_tubing_speed": [ 126.8, 126.8 ]
+        }
+      ]
+    },
+    {
+      "chart_id": 25,
+      "chart_title": "Injector Head 5100 - 1.5 ID Ext Hoses 140 - ft, Incremental",
+      "x_min": 0,
+      "x_max": 100000,
+      "x_inc": 10000,
+      "y_min": 0,
+      "y_max": 150,
+      "y_inc": 30,
+      "chart_data": [
+        {
+          "curve_id": 0,
+          "label": "5100 in Low Gear with Small Pump",
+          "injector_pull": [ 0, 93490 ],
+          "coiled_tubing_speed": [ 25.9, 25.9 ]
+        },
+        {
+          "curve_id": 1,
+          "label": "5100 in Low Gear with Large Pump",
+          "injector_pull": [ 0, 93490 ],
+          "coiled_tubing_speed": [ 46.3, 46.3 ]
+        },
+        {
+          "curve_id": 3,
+          "label": "5100 in High Gear with Small Pump",
+          "injector_pull": [ 0, 56008 ],
+          "coiled_tubing_speed": [ 43.2, 43.2 ]
+        },
+        {
+          "curve_id": 4,
+          "label": "5100 in High Gear with Large Pump",
+          "injector_pull": [ 0, 56008 ],
+          "coiled_tubing_speed": [ 77.1, 77.1 ]
+        },
+        {
+          "curve_id": 5,
+          "label": "5100 in High Gear with Both Pump",
+          "injector_pull": [ 0, 56008 ],
+          "coiled_tubing_speed": [ 119.3, 119.3 ]
+        }
+      ]
+    },
+    {
+      "chart_id": 31,
+      "chart_title": "Injector Head 6140 - 1.5 ID Ext Hoses 140 - ft, Incremental",
+      "x_min": 0,
+      "x_max": 140000,
+      "x_inc": 20000,
+      "y_min": 0,
+      "y_max": 150,
+      "y_inc": 30,
+      "chart_data": [
+        {
+          "curve_id": 0,
+          "label": "6140 in Low Gear with Small Pump",
+          "injector_pull": [ 0, 132695 ],
+          "coiled_tubing_speed": [ 19.7, 19.7 ]
+        },
+        {
+          "curve_id": 1,
+          "label": "6140 in Low Gear with Large Pump",
+          "injector_pull": [ 0, 132695 ],
+          "coiled_tubing_speed": [ 35.2, 35.2 ]
+        },
+        {
+          "curve_id": 3,
+          "label": "6140 in High Gear with Small Pump",
+          "injector_pull": [ 0, 60316 ],
+          "coiled_tubing_speed": [ 43.2, 43.2 ]
+        },
+        {
+          "curve_id": 4,
+          "label": "6140 in High Gear with Large Pump",
+          "injector_pull": [ 0, 60316 ],
+          "coiled_tubing_speed": [ 77.1, 77.1 ]
+        },
+        {
+          "curve_id": 5,
+          "label": "6140 in High Gear with Both Pump",
+          "injector_pull": [ 0, 60316 ],
+          "coiled_tubing_speed": [ 119.3, 119.3 ]
+        }
+      ]
+    },
+    {
+      "chart_id": 40,
+      "chart_title": "Injector Head 560 - 1.25 ID Ext Hoses 140 - ft, NTSP Inc",
+      "x_min": 0,
+      "x_max": 70000,
+      "x_inc": 10000,
+      "y_min": 0,
+      "y_max": 180,
+      "y_inc": 30,
+      "chart_data": [
+        {
+          "curve_id": 0,
+          "label": "560 in Low Gear with Small/Large Pump",
+          "injector_pull": [ 0, 59024 ],
+          "coiled_tubing_speed": [ 49.8, 49.8 ]
+        },
+        {
+          "curve_id": 3,
+          "label": "560 in High Gear with Small/Large Pump",
+          "injector_pull": [ 0, 39205 ],
+          "coiled_tubing_speed": [ 73.8, 73.8 ]
+        },
+        {
+          "curve_id": 5,
+          "label": "560 in High Gear with Both Pump",
+          "injector_pull": [ 0, 39205 ],
+          "coiled_tubing_speed": [ 145.8, 145.8 ]
+        }
+      ]
+    },
+    {
+      "chart_id": 41,
+      "chart_title": "Injector Head 560 - 1.5 ID Ext Hoses 140 - ft, NTSP Inc",
+      "x_min": 0,
+      "x_max": 70000,
+      "x_inc": 10000,
+      "y_min": 0,
+      "y_max": 180,
+      "y_inc": 30,
+      "chart_data": [
+        {
+          "curve_id": 0,
+          "label": "560 in Low Gear with Small/Large Pump",
+          "injector_pull": [ 0, 59024 ],
+          "coiled_tubing_speed": [ 50.0, 50.0 ]
+        },
+        {
+          "curve_id": 3,
+          "label": "560 in High Gear with Small/Large Pump",
+          "injector_pull": [ 0, 39205 ],
+          "coiled_tubing_speed": [ 74.0, 74.0 ]
+        },
+        {
+          "curve_id": 5,
+          "label": "560 in High Gear with Both Pump",
+          "injector_pull": [ 0, 39205 ],
+          "coiled_tubing_speed": [ 146.5, 146.5 ]
+        }
+      ]
+    },
+    {
+      "chart_id": 42,
+      "chart_title": "Injector Head 580 - 1.25 ID Ext Hoses 140 - ft, NTSP Inc",
+      "x_min": 0,
+      "x_max": 90000,
+      "x_inc": 10000,
+      "y_min": 0,
+      "y_max": 180,
+      "y_inc": 30,
+      "chart_data": [
+        {
+          "curve_id": 0,
+          "label": "580 in Low Gear with Small/Large Pump",
+          "injector_pull": [ 0, 78411 ],
+          "coiled_tubing_speed": [ 36.9, 36.9 ]
+        },
+        {
+          "curve_id": 3,
+          "label": "580 in High Gear with Small/Large Pump",
+          "injector_pull": [ 0, 51269 ],
+          "coiled_tubing_speed": [ 55.3, 55.3 ]
+        },
+        {
+          "curve_id": 5,
+          "label": "580 in High Gear with Both Pump",
+          "injector_pull": [ 0, 51269 ],
+          "coiled_tubing_speed": [ 109.4, 109.4 ]
+        }
+      ]
+    },
+    {
+      "chart_id": 45,
+      "chart_title": "Injector Head 5100 - 1.5 ID Ext Hoses 140 - ft, NTSP Inc",
+      "x_min": 0,
+      "x_max": 100000,
+      "x_inc": 10000,
+      "y_min": 0,
+      "y_max": 150,
+      "y_inc": 30,
+      "chart_data": [
+        {
+          "curve_id": 0,
+          "label": "5100 in Low Gear with Small/Large Pump",
+          "injector_pull": [ 0, 93490 ],
+          "coiled_tubing_speed": [ 31.1, 31.1 ]
+        },
+        {
+          "curve_id": 3,
+          "label": "5100 in High Gear with Small/Large Pump",
+          "injector_pull": [ 0, 56008 ],
+          "coiled_tubing_speed": [ 51.8, 51.8 ]
+        },
+        {
+          "curve_id": 5,
+          "label": "5100 in High Gear with Both Pump",
+          "injector_pull": [ 0, 56008 ],
+          "coiled_tubing_speed": [ 102.5, 102.5 ]
+        }
+      ]
+    },
+    {
+      "chart_id": 51,
+      "chart_title": "Injector Head 6140 - 1.5 ID Ext Hoses 140 - ft, NTSP Inc",
+      "x_min": 0,
+      "x_max": 140000,
+      "x_inc": 20000,
+      "y_min": 0,
+      "y_max": 150,
+      "y_inc": 30,
+      "chart_data": [
+        {
+          "curve_id": 0,
+          "label": "6140 in Low Gear with Small/Large Pump",
+          "injector_pull": [ 0, 132695 ],
+          "coiled_tubing_speed": [ 23.7, 23.7 ]
+        },
+        {
+          "curve_id": 3,
+          "label": "6140 in High Gear with Small/Large Pump",
+          "injector_pull": [ 0, 60316 ],
+          "coiled_tubing_speed": [ 51.8, 51.8 ]
+        },
+        {
+          "curve_id": 5,
+          "label": "6140 in High Gear with Both Pump",
+          "injector_pull": [ 0, 60316 ],
+          "coiled_tubing_speed": [ 102.5, 102.5 ]
+        }
+      ]
+    },
+    {
+      "chart_id": 60,
+      "chart_title": "Injector Head 560 - 1.25 ID Ext Hoses 140 - ft, Standard",
+      "x_min": 0,
+      "x_max": 60000,
+      "x_inc": 10000,
+      "y_min": 0,
+      "y_max": 180,
+      "y_inc": 30,
+      "chart_data": [
+        {
+          "curve_id": 0,
+          "label": "560 in Low Gear with Small Pump",
+          "index": 13,
+          "k": -0.0000354,
+          "b": 41.384,
+          "injector_pull": [ 0, 0, 1552, 5934, 10317, 14700, 19082, 23465, 27848, 32230, 36613, 40996, 45378, 49761, 50027, 50293, 50560, 50824, 51086, 51348, 51610, 51871, 52133, 52395, 52656, 52915, 53174, 53433, 53692, 53952, 54211, 54470, 54729, 54988, 55247, 55506, 55765, 56025, 56284 ],
+          "coiled_tubing_speed": [ 41.6, 41.5, 41.3, 41.2, 41, 40.9, 40.7, 40.6, 40.4, 40.2, 40.1, 39.9, 39.8, 39.6, 38, 36.5, 34.9, 33.3, 31.7, 30.1, 28.5, 26.9, 25.4, 23.8, 22.2, 20.6, 19, 17.4, 15.8, 14.3, 12.7, 11.1, 9.5, 7.9, 6.3, 4.8, 3.2, 1.6, 0 ]
+        },
+        {
+          "curve_id": 1,
+          "label": "560 in Low Gear with Large Pump",
+          "injector_pull": [ 14200.1, 14765, 15619, 16472, 17326, 17990, 18628, 18952 ],
+          "coiled_tubing_speed": [ 82.1814, 79.8, 76.2, 72.5, 68.9, 65.3, 61.6, 59.7687 ]
+        },
+        {
+          "curve_id": 2,
+          "label": "560 in Low Gear with Both Pump",
+          "injector_pull": [ 13314.93, 13531, 14472, 15327, 16182, 17037, 17892, 18747, 19518, 20157, 20795, 20823.1 ],
+          "coiled_tubing_speed": [ 93.1971, 92.49, 88.86, 85.22, 81.59, 77.96, 74.33, 70.7, 67.06, 63.43, 59.8, 59.6402 ]
+        },
+        {
+          "curve_id": 3,
+          "label": "560 in High Gear with Small Pump",
+          "index": 13,
+          "k": -0.0000789,
+          "b": 61.310,
+          "injector_pull": [ 0, 0, 1031, 3942, 6853, 9764, 12675, 15586, 18497, 21408, 24320, 27231, 30142, 33053, 33230, 33407, 33583, 33759, 33933, 34107, 34281, 34436.9 ],
+          "coiled_tubing_speed": [ 61.7, 61.5, 61.2, 61, 60.8, 60.5, 60.3, 60.1, 59.8, 59.6, 59.4, 59.2, 58.9, 58.7, 56.4, 54, 51.7, 49.3, 47, 44.6, 42.3, 40.1496 ]
+        },
+        {
+          "curve_id": 4,
+          "label": "560 in High Gear with Large Pump",
+          "index": 13,
+          "k": -0.000217,
+          "b": 127.10,
+          "injector_pull": [ 0, 0, 0, 0, 0, 0, 0, 586.7, 1973.2, 3359.6, 4746.1, 6132.6, 7519, 8905.5, 9440.7, 9975.9, 10511.1, 11046.3, 11532.8, 11934.8, 12336.7, 12738.7, 13140.7, 13542.6, 13944.6, 14344.5, 14738.2 ],
+          "coiled_tubing_speed": [ 129.1, 128.8, 128.5, 128.2, 127.9, 127.6, 127.3, 127, 126.7, 126.4, 126.1, 125.8, 125.5, 125.2, 120.2, 115.2, 110.1, 105.1, 100.1, 95.1, 90.1, 85.1, 80.1, 75.1, 70.1, 65.1, 60.1583 ]
+        },
+        {
+          "curve_id": 5,
+          "label": "560 in High Gear with Both Pump",
+          "index": 13,
+          "k": -0.00027,
+          "b": 173.85,
+          "injector_pull": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 902, 2324, 3746, 4562, 5257, 5953, 6648, 7343, 8038, 8733, 9325, 9861, 10397, 10932, 11468, 12004, 12540, 12960, 13362, 13765, 14167, 14570, 14972, 15374, 15773, 15967.7 ],
+          "coiled_tubing_speed": [ 177.8, 177.5, 177.1, 176.7, 176.3, 175.9, 175.5, 175.1, 174.8, 174.4, 174, 173.6, 173.2, 172.8, 167.8, 162.8, 157.8, 152.8, 147.8, 142.7, 137.7, 132.7, 127.7, 122.7, 117.7, 112.7, 107.6, 102.6, 97.6, 92.6, 87.6, 82.6, 77.5, 72.5, 67.5, 62.5, 60.0607 ]
+        }
+      ]
+    },
+    {
+      "chart_id": 61,
+      "chart_title": "Injector Head 560 - 1.5 ID Ext Hoses 140 - ft, Standard",
+      "x_min": 0,
+      "x_max": 60000,
+      "x_inc": 10000,
+      "y_min": 0,
+      "y_max": 180,
+      "y_inc": 30,
+      "chart_data": [
+        {
+          "curve_id": 0,
+          "label": "560 in Low Gear with Small Pump",
+          "index": 13,
+          "k": -0.0000354,
+          "b": 41.437,
+          "injector_pull": [ 0, 0, 3045, 7422, 11799, 16176, 20553, 24930, 29307, 33684, 38061, 42438, 46815, 51192, 51401, 51610, 51819, 52027, 52231, 52436, 52640, 52845, 53049, 53254, 53458, 53659, 53861, 54063, 54265, 54467, 54669, 54871, 55072, 55274, 55476, 55678, 55880, 56082, 56284 ],
+          "coiled_tubing_speed": [ 41.6, 41.5, 41.3, 41.2, 41, 40.9, 40.7, 40.6, 40.4, 40.2, 40.1, 39.9, 39.8, 39.6, 38, 36.5, 34.9, 33.3, 31.7, 30.1, 28.5, 26.9, 25.4, 23.8, 22.2, 20.6, 19, 17.4, 15.8, 14.3, 12.7, 11.1, 9.5, 7.9, 6.3, 4.8, 3.2, 1.6, 0 ]
+        },
+        {
+          "curve_id": 1,
+          "label": "560 in Low Gear with Large Pump",
+          "index": 2,
+          "k": -0.0001045,
+          "b": 92.276,
+          "injector_pull": [ 14952.5, 15472, 16190, 16909, 17627, 18345, 19063, 19781, 20315, 20824, 21087.5 ],
+          "coiled_tubing_speed": [ 90.7499, 90.7, 87, 83.4, 79.8, 76.2, 72.5, 68.9, 65.3, 61.6, 59.7328 ]
+        },
+        {
+          "curve_id": 2,
+          "label": "560 in Low Gear with Both Pump",
+          "injector_pull": [ 13681.4, 13910, 14668, 15426, 16184, 16942, 17674, 18393, 19112, 19831, 20550, 21269, 21907, 22416, 22925, 22958.7 ],
+          "coiled_tubing_speed": [ 108.116, 107.02, 103.39, 99.75, 96.12, 92.49, 88.86, 85.22, 81.59, 77.96, 74.33, 70.7, 67.06, 63.43, 59.8, 59.5598 ]
+        },
+        {
+          "curve_id": 3,
+          "label": "560 in High Gear with Small Pump",
+          "index": 13,
+          "k": -0.0000791,
+          "b": 61.401,
+          "injector_pull": [ 0, 0, 2022, 4930, 7837, 10745, 13652, 16559, 19467, 22374, 25282, 28189, 31096, 34004, 34142, 34281, 34420, 34558, 34694, 34830, 34965, 35085.8 ],
+          "coiled_tubing_speed": [ 61.7, 61.5, 61.2, 61, 60.8, 60.6, 60.3, 60.1, 59.9, 59.6, 59.4, 59.2, 58.9, 58.7, 56.4, 54, 51.7, 49.3, 47, 44.6, 42.3, 40.168 ]
+        },
+        {
+          "curve_id": 4,
+          "label": "560 in High Gear with Large Pump",
+          "index": 13,
+          "k": -0.000218,
+          "b": 127.56,
+          "injector_pull": [ 0, 0, 0, 0, 0, 0, 1242.8, 2624.3, 4005.7, 5387.1, 6768.6, 8150, 9531.5, 10912.9, 11364.5, 11816.1, 12267.8, 12719.4, 13123.7, 13446.2, 13768.6, 14091, 14413.4, 14735.8, 15058.3, 15378.6, 15693.6 ],
+          "coiled_tubing_speed": [ 129.1, 128.8, 128.5, 128.2, 127.9, 127.6, 127.3, 127, 126.7, 126.4, 126.1, 125.8, 125.5, 125.2, 120.2, 115.2, 110.2, 105.2, 100.2, 95.1, 90.1, 85.1, 80.1, 75.1, 70.1, 65.1, 60.1595 ]
+        },
+        {
+          "curve_id": 5,
+          "label": "560 in High Gear with Both Pump",
+          "index": 13,
+          "k": -0.000277,
+          "b": 174.96,
+          "injector_pull": [ 0, 0, 0, 0, 0, 0, 0, 0, 627, 2023, 3420, 4816, 6212, 7609, 8142, 8618, 9094, 9570, 10046, 10522, 10998, 11458, 11910, 12363, 12815, 13267, 13719, 14171, 14511, 14833, 15156, 15479, 15802, 16124, 16447, 16766, 16920.7 ],
+          "coiled_tubing_speed": [ 177.9, 177.5, 177.1, 176.7, 176.3, 175.9, 175.6, 175.2, 174.8, 174.4, 174, 173.6, 173.2, 172.9, 167.8, 162.8, 157.8, 152.8, 147.8, 142.8, 137.7, 132.7, 127.7, 122.7, 117.7, 112.7, 107.7, 102.6, 97.6, 92.6, 87.6, 82.6, 77.6, 72.5, 67.5, 62.5, 60.0751 ]
+        }
+      ]
+    },
+    {
+      "chart_id": 62,
+      "chart_title": "Injector Head 580 - 1.25 ID Ext Hoses 140 - ft, Standard",
+      "x_min": 0,
+      "x_max": 80000,
+      "x_inc": 10000,
+      "y_min": 0,
+      "y_max": 180,
+      "y_inc": 30,
+      "chart_data": [
+        {
+          "curve_id": 0,
+          "label": "580 in Low Gear with Small Pump",
+          "index": 13,
+          "k": -0.0000197,
+          "b": 30.66,
+          "injector_pull": [ 0, 0, 2314, 8135, 13956, 19778, 25599, 31420, 37242, 43063, 48884, 54705, 60527, 66348, 66692, 67036, 67380, 67722, 68060, 68398, 68736, 69074, 69412, 69750, 70087, 70422, 70757, 71091, 71426, 71760, 72095, 72429, 72764, 73098, 73433, 73767, 74102, 74436, 74771 ],
+          "coiled_tubing_speed": [ 30.8, 30.7, 30.6, 30.5, 30.4, 30.3, 30.2, 30, 29.9, 29.8, 29.7, 29.6, 29.5, 29.4, 28.2, 27, 25.8, 24.7, 23.5, 22.3, 21.1, 20, 18.8, 17.6, 16.4, 15.3, 14.1, 12.9, 11.7, 10.6, 9.4, 8.2, 7, 5.9, 4.7, 3.5, 2.3, 1.2, 0 ]
+        },
+        {
+          "curve_id": 1,
+          "label": "580 in Low Gear with Large Pump",
+          "injector_pull": [ 18758.9, 19265, 20415, 21565, 22714, 23841, 24691, 25498.6 ],
+          "coiled_tubing_speed": [ 62.7321, 61.5, 58.7, 55.9, 53.1, 50.3, 47.5, 44.8397 ]
+        },
+        {
+          "curve_id": 2,
+          "label": "580 in Low Gear with Both Pump",
+          "injector_pull": [ 17737.1, 18703, 19989, 21140, 22291, 23442, 24594, 25745, 26720, 27572, 27998 ],
+          "coiled_tubing_speed": [ 70.3276, 68.51, 65.71, 62.91, 60.11, 57.31, 54.51, 51.71, 48.91, 46.11, 44.7084 ]
+        },
+        {
+          "curve_id": 3,
+          "label": "580 in High Gear with Small Pump",
+          "index": 13,
+          "k": -0.0000453,
+          "b": 45.99,
+          "injector_pull": [ 0, 0, 1513, 5319, 9125, 12932, 16738, 20544, 24350, 28157, 31963, 35769, 39575, 43381, 43606, 43831, 44056, 44280, 44501, 44722, 44943, 45164, 45181.7 ],
+          "coiled_tubing_speed": [ 46.3, 46.1, 45.9, 45.7, 45.6, 45.4, 45.2, 45.1, 44.9, 44.7, 44.5, 44.4, 44.2, 44, 42.3, 40.5, 38.7, 37, 35.2, 33.5, 31.7, 29.9, 29.7636 ]
+        },
+        {
+          "curve_id": 4,
+          "label": "580 in High Gear with Large Pump",
+          "index": 13,
+          "k": -0.000131,
+          "b": 100.53,
+          "injector_pull": [ 0, 0, 0, 0, 0, 0, 0, 324, 2138.1, 3952.2, 5766.3, 7580.4, 9394.5, 11208.6, 11925.6, 12642.7, 13359.8, 14076.8, 14793.9, 15470.2, 16003, 16535.9, 17068.7, 17601.6, 18134.4, 18667.3, 19196, 19517.2 ],
+          "coiled_tubing_speed": [ 102.2, 101.9, 101.7, 101.4, 101.2, 101, 100.7, 100.5, 100.3, 100, 99.8, 99.5, 99.3, 99.1, 95.1, 91.1, 87.2, 83.2, 79.2, 75.3, 71.3, 67.4, 63.4, 59.4, 55.5, 51.5, 47.5, 45.127 ]
+        },
+        {
+          "curve_id": 5,
+          "label": "580 in High Gear with Both Pump",
+          "index": 13,
+          "k": -0.00016,
+          "b": 137.35,
+          "injector_pull": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1606, 3467, 4667, 5867, 6924, 7850, 8775, 9700, 10625, 11550, 12449, 13167, 13885, 14603, 15321, 16039, 16757, 17341, 17874, 18408, 18941, 19474, 20008, 20540, 21068, 21124.8 ],
+          "coiled_tubing_speed": [ 140.8, 140.4, 140.1, 139.8, 139.5, 139.2, 138.9, 138.6, 138.3, 138, 137.7, 137.4, 137.1, 136.8, 132.8, 128.8, 124.9, 120.9, 116.9, 113, 109, 105, 101.1, 97.1, 93.1, 89.2, 85.2, 81.2, 77.2, 73.3, 69.3, 65.3, 61.4, 57.4, 53.4, 49.5, 45.5, 45.0695 ]
+        }
+      ]
+    },
+    {
+      "chart_id": 65,
+      "chart_title": "Injector Head 5100 - 1.5 ID Ext Hoses 140 - ft, Standard",
+      "x_min": 0,
+      "x_max": 100000,
+      "x_inc": 10000,
+      "y_min": 0,
+      "y_max": 150,
+      "y_inc": 30,
+      "chart_data": [
+        {
+          "curve_id": 0,
+          "label": "5100 in Low Gear with Small Pump",
+          "index": 13,
+          "k": -0.0000139,
+          "b": 25.783,
+          "injector_pull": [ 0, 0, 4822, 11756, 18689, 25622, 32555, 39488, 46421, 53354, 60287, 67220, 74153, 81086, 81417, 81748, 82079, 82407, 82731, 83055, 83379, 83703, 84027, 84351, 84674, 84993, 85313, 85633, 85953, 86272, 86592, 86912, 87232, 87551, 87871, 88191, 88511, 88830, 89150 ],
+          "coiled_tubing_speed": [ 25.9, 25.8, 25.7, 25.6, 25.5, 25.4, 25.3, 25.2, 25.1, 25, 24.9, 24.8, 24.8, 24.7, 23.7, 22.7, 21.7, 20.7, 19.7, 18.7, 17.8, 16.8, 15.8, 14.8, 13.8, 12.8, 11.8, 10.8, 9.9, 8.9, 7.9, 6.9, 5.9, 4.9, 3.9, 3, 2, 1, 0 ]
+        },
+        {
+          "curve_id": 1,
+          "label": "5100 in Low Gear with Large Pump",
+          "index": 1,
+          "k": -0.0000435,
+          "b": 60.841,
+          "injector_pull": [ 22015.6, 23050, 24308, 25525, 26717, 27909, 29102, 30294, 31486, 32035 ],
+          "coiled_tubing_speed": [ 59.8626, 59.8, 57.4, 55.1, 52.7, 50.3, 47.9, 45.5, 43.1, 41.6983 ]
+        },
+        {
+          "curve_id": 2,
+          "label": "5100 in Low Gear with Both Pump",
+          "injector_pull": [ 20720.7, 21560, 22819, 24078, 25337, 26596, 27848, 29042, 30236, 31429, 32623, 33817, 34932, 35017.1 ],
+          "coiled_tubing_speed": [ 69.84, 68.24, 65.84, 63.44, 61.05, 58.65, 56.25, 53.85, 51.46, 49.06, 46.66, 44.26, 41.87, 41.6265 ]
+        },
+        {
+          "curve_id": 3,
+          "label": "5100 in High Gear with Small Pump",
+          "index": 13,
+          "k": -0.0000387,
+          "b": 42.972,
+          "injector_pull": [ 0, 0, 2889, 7042, 11196, 15349, 19503, 23656, 27810, 31963, 36116, 40270, 44423, 48577, 48775, 48973, 49172, 49369, 49563, 49757, 49951, 50145, 50339, 50491.6 ],
+          "coiled_tubing_speed": [ 43.2, 43, 42.9, 42.7, 42.5, 42.4, 42.2, 42.1, 41.9, 41.7, 41.6, 41.4, 41.3, 41.1, 39.4, 37.8, 36.2, 34.5, 32.9, 31.2, 29.6, 27.9, 26.3, 25.0413 ]
+        },
+        {
+          "curve_id": 4,
+          "label": "5100 in High Gear with Large Pump",
+          "index": 13,
+          "k": -0.0001137,
+          "b": 95.168,
+          "injector_pull": [ 0, 0, 0, 0, 0, 0, 924.6, 2902.3, 4879.1, 6854.6, 8830.1, 10805.6, 12781.1, 14756.6, 15435.1, 16113.6, 16792.1, 17470.6, 18149.1, 18827.6, 19309.6, 19790.2, 20270.8, 20751.4, 21232, 21712.6, 22189.5, 22536.1 ],
+          "coiled_tubing_speed": [ 96.4, 96.2, 96, 95.7, 95.5, 95.3, 95.1, 94.8, 94.6, 94.4, 94.2, 93.9, 93.7, 93.5, 89.8, 86, 82.3, 78.5, 74.8, 71.1, 67.3, 63.6, 59.8, 56.1, 52.4, 48.6, 44.9, 42.127 ]
+        },
+        {
+          "curve_id": 5,
+          "label": "5100 in High Gear with Both Pump",
+          "index": 13,
+          "k": -0.000144,
+          "b": 130.43,
+          "injector_pull": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 1290, 3288, 5287, 7285, 9283, 10150, 11017, 11863, 12579, 13295, 14010, 14726, 15442, 16158, 16844, 17523, 18203, 18882, 19561, 20241, 20821, 21302, 21783, 22264, 22745, 23226, 23706, 24182, 24288.6 ],
+          "coiled_tubing_speed": [ 132.8, 132.5, 132.3, 132, 131.7, 131.4, 131.1, 130.8, 130.5, 130.2, 130, 129.7, 129.4, 129.1, 125.3, 121.6, 117.9, 114.1, 110.4, 106.6, 102.9, 99.1, 95.4, 91.6, 87.9, 84.1, 80.4, 76.7, 72.9, 69.2, 65.4, 61.7, 57.9, 54.2, 50.4, 46.7, 42.9, 42.0695 ]
+        }
+      ]
+    },
+    {
+      "chart_id": 71,
+      "chart_title": "Injector Head 6140 - 1.5 ID Ext Hoses 140 - ft, Standard",
+      "x_min": 0,
+      "x_max": 140000,
+      "x_inc": 20000,
+      "y_min": 0,
+      "y_max": 150,
+      "y_inc": 30,
+      "chart_data": [
+        {
+          "curve_id": 0,
+          "label": "6140 in Low Gear with Small Pump",
+          "index": 13,
+          "k": -0.0000075,
+          "b": 19.644,
+          "injector_pull": [ 0, 0, 6845, 16685, 26526, 36366, 46207, 56047, 65887, 75728, 85568, 95409, 105249, 115089, 115559, 116029, 116499, 116965, 117425, 117885, 118345, 118804, 119264, 119724, 120182, 120636, 121090, 121544, 121997, 122451, 122905, 123359, 123813, 124266, 124720, 125174, 125628, 126082, 126535 ],
+          "coiled_tubing_speed": [ 19.7, 19.7, 19.6, 19.5, 19.4, 19.4, 19.3, 19.2, 19.2, 19.1, 19, 18.9, 18.9, 18.8, 18, 17.3, 16.5, 15.8, 15, 14.3, 13.5, 12.8, 12, 11.3, 10.5, 9.8, 9, 8.3, 7.5, 6.8, 6, 5.3, 4.5, 3.8, 3, 2.3, 1.5, 0.8, 0 ]
+        },
+        {
+          "curve_id": 1,
+          "label": "6140 in Low Gear with Large Pump",
+          "index": 2,
+          "k": -0.000022,
+          "b": 47.520,
+          "injector_pull": [ 25494.2, 27019, 31703, 33528, 35354, 36678.5 ],
+          "coiled_tubing_speed": [ 46.9326, 46.9, 46.8, 44.9, 43.1, 41.6496 ]
+        },
+        {
+          "curve_id": 2,
+          "label": "6140 in Low Gear with Both Pump",
+          "injector_pull": [ 23956.6, 25125, 27347, 29491, 31319, 33146, 34974, 36802, 38630, 40412, 40951.3 ],
+          "coiled_tubing_speed": [ 58.0881, 57.1, 55.23, 53.35, 51.47, 49.6, 47.72, 45.85, 43.97, 42.09, 41.5081 ]
+        },
+        {
+          "curve_id": 3,
+          "label": "6140 in High Gear with Small Pump",
+          "index": 13,
+          "k": -0.000036,
+          "b": 42.972,
+          "injector_pull": [ 0, 0, 3111, 7584, 12057, 16530, 21003, 25476, 29949, 34422, 38895, 43368, 47840, 52313, 52527, 52740, 52954, 53166, 53375, 53584, 53793, 54002, 54211, 54420, 54628, 54835, 55041, 55104.1 ],
+          "coiled_tubing_speed": [ 43.2, 43, 42.9, 42.7, 42.5, 42.4, 42.2, 42.1, 41.9, 41.7, 41.6, 41.4, 41.3, 41.1, 39.4, 37.8, 36.2, 34.5, 32.9, 31.2, 29.6, 27.9, 26.3, 24.7, 23, 21.4, 19.7, 19.2096 ]
+        },
+        {
+          "curve_id": 4,
+          "label": "6140 in High Gear with Large Pump",
+          "index": 13,
+          "k": -0.0000972,
+          "b": 95.266,
+          "injector_pull": [ 0, 0, 0, 0, 0, 0, 972.4, 3098.3, 5224.2, 7348.6, 9472.3, 11596, 13719.8, 15843.5, 16576.1, 17308.8, 18041.4, 18774, 19506.6, 20239.3, 20770, 21288.9, 21807.8, 22326.8, 22845.7, 23364.7, 23879.8, 24267.7 ],
+          "coiled_tubing_speed": [ 96.4, 96.2, 96, 95.8, 95.6, 95.4, 95.2, 95, 94.8, 94.6, 94.3, 94.1, 93.9, 93.7, 90, 86.2, 82.5, 78.7, 75, 71.2, 67.5, 63.7, 60, 56.2, 52.5, 48.7, 45, 42.127 ]
+        },
+        {
+          "curve_id": 5,
+          "label": "6140 in High Gear with Both Pump",
+          "index": 13,
+          "k": -0.000126,
+          "b": 130.58,
+          "injector_pull": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 1347, 3494, 5642, 7789, 9937, 10873, 11808, 12731, 13504, 14277, 15050, 15823, 16596, 17369, 18111, 18844, 19578, 20311, 21045, 21778, 22410, 22930, 23449, 23969, 24488, 25007, 25526, 26039, 26164.9 ],
+          "coiled_tubing_speed": [ 132.8, 132.6, 132.3, 132, 131.8, 131.5, 131.2, 130.9, 130.7, 130.4, 130.1, 129.9, 129.6, 129.3, 125.6, 121.8, 118.1, 114.3, 110.5, 106.8, 103, 99.3, 95.5, 91.8, 88, 84.3, 80.5, 76.8, 73, 69.2, 65.5, 61.7, 58, 54.2, 50.5, 46.7, 43, 42.0692 ]
+        }
+      ]
+    },
+    {
+      "chart_id": 80,
+      "chart_title": "Injector Head 560 - 1.25 ID Ext Hoses 140 - ft, Incremental",
+      "x_min": 0,
+      "x_max": 70000,
+      "x_inc": 10000,
+      "y_min": 0,
+      "y_max": 180,
+      "y_inc": 30,
+      "chart_data": [
+        {
+          "curve_id": 0,
+          "label": "560 in Low Gear with Small Pump",
+          "injector_pull": [ 0, 0, 4292, 8674, 13057, 17440, 21822, 26205, 30588, 34970, 39353, 43736, 48118, 52501, 52767, 53033, 53300, 53564, 53826, 54088, 54350, 54611, 54873, 55135, 55396, 55655, 55914, 56173, 56432, 56692, 56951, 57210, 57469, 57728, 57987, 58246, 58505, 58765, 59024 ],
+          "coiled_tubing_speed": [ 41.6, 41.5, 41.3, 41.2, 41, 40.9, 40.7, 40.6, 40.4, 40.2, 40.1, 39.9, 39.8, 39.6, 38, 36.5, 34.9, 33.3, 31.7, 30.1, 28.5, 26.9, 25.4, 23.8, 22.2, 20.6, 19, 17.4, 15.8, 14.3, 12.7, 11.1, 9.5, 7.9, 6.3, 4.8, 3.2, 1.6, 0 ]
+        },
+        {
+          "curve_id": 1,
+          "label": "560 in Low Gear with Large Pump",
+          "injector_pull": [ 0, 0, 0, 0, 1583, 4242, 6900, 9558, 12217, 14875, 17533, 20192, 22850, 25509, 26159, 26662, 27141, 27621, 28100, 28579, 29059, 29538, 30017, 30492, 30967, 31441, 31916, 32383, 32850, 33317, 33783, 34245, 34707, 35169, 35631, 36093, 36555, 37017, 37479 ],
+          "coiled_tubing_speed": [ 75, 74.6, 74.3, 74, 73.7, 73.3, 73, 72.7, 72.3, 72, 71.7, 71.4, 71, 70.7, 67.9, 65.1, 62.2, 59.4, 56.6, 53.7, 50.9, 48.1, 45.3, 42.4, 39.6, 36.8, 33.9, 31.1, 28.3, 25.5, 22.6, 19.8, 17, 14.1, 11.3, 8.5, 5.7, 2.8, 0 ]
+        },
+        {
+          "curve_id": 2,
+          "label": "560 in Low Gear with Both Pump",
+          "injector_pull": [ 0, 0, 0, 0, 0, 0, 0, 174, 2919, 5665, 8402, 11108, 13813, 16519, 17375, 18230, 19086, 19942, 20798, 21654, 22510, 23257, 23908, 24560 ],
+          "coiled_tubing_speed": [ 116.59, 116.17, 115.76, 115.34, 114.92, 114.5, 114.08, 113.67, 113.25, 112.83, 112.41, 112, 111.58, 111.16, 108.33, 105.49, 102.66, 99.83, 96.99, 94.16, 91.33, 88.49, 85.66, 82.83 ]
+        },
+        {
+          "curve_id": 3,
+          "label": "560 in High Gear with Small Pump",
+          "injector_pull": [ 0, 0, 2851, 5762, 8673, 11584, 14495, 17406, 20317, 23228, 26140, 29051, 31962, 34873, 35050, 35227, 35403, 35579, 35753, 35927, 36101, 36275, 36449, 36622, 36796, 36968, 37140, 37312, 37484, 37656, 37829, 38001, 38173, 38345, 38517, 38689, 38861, 39033, 39205 ],
+          "coiled_tubing_speed": [ 61.7, 61.5, 61.2, 61, 60.8, 60.5, 60.3, 60.1, 59.8, 59.6, 59.4, 59.2, 58.9, 58.7, 56.4, 54, 51.7, 49.3, 47, 44.6, 42.3, 39.9, 37.6, 35.2, 32.9, 30.5, 28.2, 25.8, 23.5, 21.1, 18.8, 16.4, 14.1, 11.7, 9.4, 7, 4.7, 2.3, 0 ]
+        },
+        {
+          "curve_id": 4,
+          "label": "560 in High Gear with Large Pump",
+          "injector_pull": [ 0, 0, 0, 0, 1051.6, 2817.4, 4583.1, 6348.9, 8114.7, 9880.5, 11646.3, 13412.1, 15177.9, 16943.7, 17375.8, 17709.9, 18028.3, 18346.6, 18665, 18983.4, 19301.7, 19620.1, 19938.4, 20254, 20569.2, 20884.5, 21199.8, 21510.1, 21820, 22130, 22439.9, 22746.9, 23053.8, 23360.6, 23667.5, 23974.3, 24281.2, 24588, 24894.9 ],
+          "coiled_tubing_speed": [ 111, 110.6, 110.1, 109.6, 109.1, 108.6, 108.1, 107.7, 107.2, 106.7, 106.2, 105.7, 105.3, 104.8, 100.6, 96.4, 92.2, 88, 83.8, 79.6, 75.4, 71.2, 67.1, 62.9, 58.7, 54.5, 50.3, 46.1, 41.9, 37.7, 33.5, 29.3, 25.1, 21, 16.8, 12.6, 8.4, 4.2, 0 ]
+        },
+        {
+          "curve_id": 5,
+          "label": "560 in High Gear with Both Pump",
+          "injector_pull": [ 0, 0, 0, 0, 0, 0, 0, 115, 1939, 3763, 5581, 7378, 9175, 10972, 11541, 12109, 12678, 13246, 13815, 14383, 14952, 15448, 15881, 16313 ],
+          "coiled_tubing_speed": [ 172.7, 172.1, 171.5, 170.9, 170.3, 169.6, 169, 168.4, 167.8, 167.2, 166.5, 165.9, 165.3, 164.7, 160.5, 156.3, 152.1, 147.9, 143.7, 139.5, 135.3, 131.1, 126.9, 122.7 ]
+        }
+      ]
+    },
+    {
+      "chart_id": 81,
+      "chart_title": "Injector Head 560 - 1.5 ID Ext Hoses 140 - ft, Incremental",
+      "x_min": 0,
+      "x_max": 70000,
+      "x_inc": 10000,
+      "y_min": 0,
+      "y_max": 180,
+      "y_inc": 30,
+      "chart_data": [
+        {
+          "curve_id": 0,
+          "label": "560 in Low Gear with Small Pump",
+          "injector_pull": [ 0, 1408, 5785, 10162, 14539, 18916, 23293, 27670, 32047, 36424, 40801, 45178, 49555, 53932, 54141, 54350, 54559, 54767, 54971, 55176, 55380, 55585, 55789, 55994, 56198, 56399, 56601, 56803, 57005, 57207, 57409, 57611, 57812, 58014, 58216, 58418, 58620, 58822, 59024 ],
+          "coiled_tubing_speed": [ 41.6, 41.5, 41.3, 41.2, 41, 40.9, 40.7, 40.6, 40.4, 40.2, 40.1, 39.9, 39.8, 39.6, 38, 36.5, 34.9, 33.3, 31.7, 30.1, 28.5, 26.9, 25.4, 23.8, 22.2, 20.6, 19, 17.4, 15.8, 14.3, 12.7, 11.1, 9.5, 7.9, 6.3, 4.8, 3.2, 1.6, 0 ]
+        },
+        {
+          "curve_id": 1,
+          "label": "560 in Low Gear with Large Pump",
+          "injector_pull": [ 0, 0, 0, 1507, 4119, 6732, 9344, 11956, 14568, 17180, 19792, 22404, 25016, 27628, 28189, 28628, 29022, 29415, 29809, 30203, 30597, 30991, 31384, 31774, 32164, 32553, 32942, 33324, 33705, 34086, 34467, 34844, 35221, 35597, 35973, 36350, 36726, 37103, 37479 ],
+          "coiled_tubing_speed": [ 75, 74.7, 74.4, 74.1, 73.8, 73.5, 73.2, 72.9, 72.6, 72.3, 72, 71.7, 71.4, 71.1, 68.3, 65.4, 62.6, 59.7, 56.9, 54, 51.2, 48.4, 45.5, 42.7, 39.8, 37, 34.1, 31.3, 28.4, 25.6, 22.8, 19.9, 17.1, 14.2, 11.4, 8.5, 5.7, 2.8, 0 ]
+        },
+        {
+          "curve_id": 2,
+          "label": "560 in Low Gear with Both Pump",
+          "injector_pull": [ 0, 0, 0, 0, 0, 332, 2979, 5626, 8273, 10920, 13567, 16206, 18836, 21466, 22058, 22650, 23243, 23835, 24427, 25020, 25612, 26191, 26752, 27314, 27875 ],
+          "coiled_tubing_speed": [ 116.59, 116.2, 115.82, 115.43, 115.04, 114.66, 114.27, 113.88, 113.49, 113.11, 112.72, 112.33, 111.94, 111.56, 108.71, 105.86, 103.01, 100.16, 97.31, 94.46, 91.61, 88.76, 85.91, 83.06, 80.22 ]
+        },
+        {
+          "curve_id": 3,
+          "label": "560 in High Gear with Small Pump",
+          "injector_pull": [ 0, 935, 3842, 6750, 9657, 12565, 15472, 18379, 21287, 24194, 27102, 30009, 32916, 35824, 35962, 36101, 36240, 36378, 36514, 36650, 36785, 36921, 37057, 37193, 37328, 37462, 37597, 37731, 37865, 37999, 38133, 38267, 38401, 38535, 38669, 38803, 38937, 39071, 39205 ],
+          "coiled_tubing_speed": [ 61.7, 61.5, 61.2, 61, 60.8, 60.6, 60.3, 60.1, 59.9, 59.6, 59.4, 59.2, 58.9, 58.7, 56.4, 54, 51.7, 49.3, 47, 44.6, 42.3, 39.9, 37.6, 35.2, 32.9, 30.5, 28.2, 25.8, 23.5, 21.1, 18.8, 16.4, 14.1, 11.7, 9.4, 7, 4.7, 2.3, 0 ]
+        },
+        {
+          "curve_id": 4,
+          "label": "560 in High Gear with Large Pump",
+          "injector_pull": [ 0, 0, 0, 1001.2, 2736.2, 4471.3, 6206.4, 7941.4, 9676.5, 11411.5, 13146.6, 14881.6, 16616.7, 18351.7, 18724.2, 19015.5, 19277.1, 19538.7, 19800.3, 20061.8, 20323.4, 20585, 20846.6, 21105.7, 21364.1, 21622.6, 21881.1, 22135, 22388.1, 22641.2, 22894.4, 23144.7, 23394.7, 23644.8, 23894.8, 24144.8, 24394.8, 24644.9, 24894.9 ],
+          "coiled_tubing_speed": [ 111.1, 110.6, 110.2, 109.7, 109.3, 108.9, 108.4, 108, 107.6, 107.1, 106.7, 106.2, 105.8, 105.4, 101.1, 96.9, 92.7, 88.5, 84.3, 80.1, 75.9, 71.6, 67.4, 63.2, 59, 54.8, 50.6, 46.4, 42.1, 37.9, 33.7, 29.5, 25.3, 21.1, 16.9, 12.6, 8.4, 4.2, 0 ]
+        },
+        {
+          "curve_id": 5,
+          "label": "560 in High Gear with Both Pump",
+          "injector_pull": [ 0, 0, 0, 0, 0, 220, 1979, 3737, 5495, 7253, 9011, 10765, 12511, 14258, 14652, 15045, 15439, 15832, 16225, 16619, 17012, 17397, 17770, 18143, 18516 ],
+          "coiled_tubing_speed": [ 172.8, 172.2, 171.6, 171, 170.5, 169.9, 169.3, 168.7, 168.2, 167.6, 167, 166.5, 165.9, 165.3, 161.1, 156.9, 152.6, 148.4, 144.2, 140, 135.7, 131.5, 127.3, 123.1, 118.9 ]
+        }
+      ]
+    },
+    {
+      "chart_id": 82,
+      "chart_title": "Injector Head 580 - 1.25 ID Ext Hoses 140 - ft, Incremental",
+      "x_min": 0,
+      "x_max": 90000,
+      "x_inc": 10000,
+      "y_min": 0,
+      "y_max": 180,
+      "y_inc": 30,
+      "chart_data": [
+        {
+          "curve_id": 0,
+          "label": "580 in Low Gear with Small Pump",
+          "injector_pull": [ 0, 0, 5701, 11523, 17346, 23168, 28990, 34812, 40635, 46457, 52279, 58101, 63924, 69746, 70099, 70453, 70807, 71159, 71506, 71854, 72202, 72549, 72897, 73245, 73592, 73936, 74280, 74624, 74969, 75313, 75657, 76001, 76346, 76690, 77034, 77378, 77723, 78067, 78411 ],
+          "coiled_tubing_speed": [ 30.8, 30.7, 30.6, 30.5, 30.4, 30.3, 30.2, 30, 29.9, 29.8, 29.7, 29.6, 29.5, 29.4, 28.2, 27, 25.8, 24.7, 23.5, 22.3, 21.1, 20, 18.8, 17.6, 16.4, 15.3, 14.1, 12.9, 11.7, 10.6, 9.4, 8.2, 7, 5.9, 4.7, 3.5, 2.3, 1.2, 0 ]
+        },
+        {
+          "curve_id": 1,
+          "label": "580 in Low Gear with Large Pump",
+          "injector_pull": [ 0, 0, 0, 0, 2103, 5635, 9166, 12698, 16229, 19761, 23293, 26824, 30356, 33887, 34752, 35420, 36057, 36693, 37330, 37967, 38603, 39240, 39877, 40508, 41138, 41769, 42400, 43020, 43640, 44260, 44880, 45494, 46108, 46721, 47335, 47949, 48562, 49176, 49790 ],
+          "coiled_tubing_speed": [ 55.5, 55.3, 55, 54.8, 54.6, 54.3, 54.1, 53.8, 53.6, 53.4, 53.1, 52.9, 52.6, 52.4, 50.3, 48.2, 46.1, 44, 41.9, 39.8, 37.7, 35.6, 33.5, 31.4, 29.3, 27.2, 25.1, 23.1, 21, 18.9, 16.8, 14.7, 12.6, 10.5, 8.4, 6.3, 4.2, 2.1, 0 ]
+        },
+        {
+          "curve_id": 2,
+          "label": "580 in Low Gear with Both Pump",
+          "injector_pull": [ 0, 0, 0, 0, 0, 0, 0, 231, 3878, 7525, 11162, 14756, 18350, 21945, 23082, 24219, 25356, 26493, 27630, 28767, 29904, 30896, 31761, 32627 ],
+          "coiled_tubing_speed": [ 86.36, 86.05, 85.74, 85.44, 85.13, 84.82, 84.51, 84.2, 83.89, 83.58, 83.27, 82.96, 82.65, 82.34, 80.24, 78.14, 76.05, 73.95, 71.85, 69.75, 67.65, 65.55, 63.45, 61.35 ]
+        },
+        {
+          "curve_id": 3,
+          "label": "580 in High Gear with Small Pump",
+          "injector_pull": [ 0, 0, 3728, 7535, 11341, 15148, 18955, 22762, 26569, 30376, 34182, 37989, 41796, 45603, 45834, 46065, 46297, 46527, 46754, 46981, 47209, 47436, 47663, 47891, 48118, 48343, 48568, 48793, 49018, 49243, 49468, 49693, 49918, 50143, 50368, 50593, 50819, 51044, 51269 ],
+          "coiled_tubing_speed": [ 46.3, 46.1, 45.9, 45.7, 45.6, 45.4, 45.2, 45.1, 44.9, 44.7, 44.5, 44.4, 44.2, 44, 42.3, 40.5, 38.7, 37, 35.2, 33.5, 31.7, 29.9, 28.2, 26.4, 24.7, 22.9, 21.1, 19.4, 17.6, 15.8, 14.1, 12.3, 10.6, 8.8, 7, 5.3, 3.5, 1.8, 0 ]
+        },
+        {
+          "curve_id": 4,
+          "label": "580 in High Gear with Large Pump",
+          "injector_pull": [ 0, 0, 0, 0, 1375.1, 3684.2, 5993.3, 8302.5, 10611.6, 12920.7, 15229.8, 17538.9, 19848, 22157.1, 22722.1, 23159.1, 23575.5, 23991.8, 24408.1, 24824.4, 25240.7, 25657, 26073.3, 26486, 26898.2, 27310.5, 27722.8, 28128.6, 28533.9, 28939.2, 29344.5, 29746, 30147.2, 30548.5, 30949.8, 31351.1, 31752.3, 32153.6, 32554.9 ],
+          "coiled_tubing_speed": [ 83.3, 82.9, 82.6, 82.2, 81.8, 81.5, 81.1, 80.7, 80.4, 80, 79.7, 79.3, 78.9, 78.6, 75.4, 72.3, 69.2, 66, 62.9, 59.7, 56.6, 53.4, 50.3, 47.1, 44, 40.9, 37.7, 34.6, 31.4, 28.3, 25.1, 22, 18.9, 15.7, 12.6, 9.4, 6.3, 3.1, 0 ]
+        },
+        {
+          "curve_id": 5,
+          "label": "580 in High Gear with Both Pump",
+          "injector_pull": [ 0, 0, 0, 0, 0, 0, 0, 151, 2536, 4920, 7298, 9648, 11998, 14348, 15092, 15835, 16579, 17322, 18065, 18809, 19552, 20201, 20767, 21333 ],
+          "coiled_tubing_speed": [ 129.5, 129.1, 128.6, 128.2, 127.7, 127.2, 126.8, 126.3, 125.8, 125.4, 124.9, 124.4, 124, 123.5, 120.4, 117.2, 114.1, 110.9, 107.8, 104.6, 101.5, 98.3, 95.2, 92 ]
+        }
+      ]
+    },
+    {
+      "chart_id": 85,
+      "chart_title": "Injector Head 5100 - 1.5 ID Ext Hoses 140 - ft, Incremental",
+      "x_min": 0,
+      "x_max": 100000,
+      "x_inc": 10000,
+      "y_min": 0,
+      "y_max": 150,
+      "y_inc": 30,
+      "chart_data": [
+        {
+          "curve_id": 0,
+          "label": "5100 in Low Gear with Small Pump",
+          "injector_pull": [ 0, 2229, 9162, 16096, 23029, 29962, 36895, 43828, 50761, 57694, 64627, 71560, 78493, 85426, 85757, 86088, 86419, 86747, 87071, 87395, 87719, 88043, 88367, 88691, 89014, 89333, 89653, 89973, 90293, 90612, 90932, 91252, 91572, 91891, 92211, 92531, 92851, 93170, 93490 ],
+          "coiled_tubing_speed": [ 25.9, 25.8, 25.7, 25.6, 25.5, 25.4, 25.3, 25.2, 25.1, 25, 24.9, 24.8, 24.8, 24.7, 23.7, 22.7, 21.7, 20.7, 19.7, 18.7, 17.8, 16.8, 15.8, 14.8, 13.8, 12.8, 11.8, 10.8, 9.9, 8.9, 7.9, 6.9, 5.9, 4.9, 3.9, 3, 2, 1, 0 ]
+        },
+        {
+          "curve_id": 1,
+          "label": "5100 in Low Gear with Large Pump",
+          "injector_pull": [ 0, 0, 0, 2524, 6707, 10890, 15073, 19256, 23439, 27622, 31806, 35989, 40172, 44355, 45219, 45886, 46487, 47087, 47687, 48287, 48888, 49488, 50088, 50682, 51275, 51868, 52461, 53042, 53622, 54203, 54783, 55356, 55929, 56501, 57074, 57647, 58219, 58792, 59365 ],
+          "coiled_tubing_speed": [ 46.6, 46.5, 46.3, 46.1, 45.9, 45.7, 45.5, 45.3, 45.1, 45, 44.8, 44.6, 44.4, 44.2, 42.4, 40.7, 38.9, 37.1, 35.4, 33.6, 31.8, 30.1, 28.3, 26.5, 24.8, 23, 21.2, 19.5, 17.7, 15.9, 14.1, 12.4, 10.6, 8.8, 7.1, 5.3, 3.5, 1.8, 0 ]
+        },
+        {
+          "curve_id": 2,
+          "label": "5100 in Low Gear with Both Pump",
+          "injector_pull": [ 0, 0, 0, 0, 0, 756, 4995, 9234, 13473, 17712, 21951, 26175, 30386, 34597, 35511, 36426, 37340, 38254, 39169, 40083, 40998, 41890, 42756, 43621 ],
+          "coiled_tubing_speed": [ 72.55, 72.3, 72.06, 71.81, 71.57, 71.33, 71.08, 70.84, 70.6, 70.35, 70.11, 69.87, 69.62, 69.38, 67.61, 65.84, 64.06, 62.29, 60.52, 58.75, 56.98, 55.21, 53.44, 51.66 ]
+        },
+        {
+          "curve_id": 3,
+          "label": "5100 in High Gear with Small Pump",
+          "injector_pull": [ 0, 1336, 5489, 9642, 13796, 17949, 22103, 26256, 30410, 34563, 38716, 42870, 47023, 51177, 51375, 51573, 51772, 51969, 52163, 52357, 52551, 52745, 52939, 53133, 53326, 53518, 53709, 53901, 54092, 54284, 54475, 54667, 54859, 55050, 55242, 55433, 55625, 55816, 56008 ],
+          "coiled_tubing_speed": [ 43.2, 43, 42.9, 42.7, 42.5, 42.4, 42.2, 42.1, 41.9, 41.7, 41.6, 41.4, 41.3, 41.1, 39.4, 37.8, 36.2, 34.5, 32.9, 31.2, 29.6, 27.9, 26.3, 24.7, 23, 21.4, 19.7, 18.1, 16.4, 14.8, 13.1, 11.5, 9.9, 8.2, 6.6, 4.9, 3.3, 1.6, 0 ]
+        },
+        {
+          "curve_id": 4,
+          "label": "5100 in High Gear with Large Pump",
+          "injector_pull": [ 0, 0, 0, 1512.2, 4018.2, 6524.2, 9030.1, 11536.1, 14042.1, 16548, 19054, 21560, 24065.9, 26571.9, 27089.8, 27489.5, 27849.1, 28208.7, 28568.3, 28927.9, 29287.5, 29647.1, 30006.7, 30362.6, 30717.7, 31072.9, 31428, 31776.5, 32124, 32471.6, 32819.1, 33162.6, 33505.6, 33848.7, 34191.8, 34534.9, 34878, 35221.1, 35564.1 ],
+          "coiled_tubing_speed": [ 77.7, 77.4, 77.1, 76.8, 76.5, 76.2, 75.9, 75.6, 75.2, 74.9, 74.6, 74.3, 74, 73.7, 70.7, 67.8, 64.9, 61.9, 59, 56, 53.1, 50.1, 47.2, 44.2, 41.3, 38.3, 35.4, 32.4, 29.5, 26.5, 23.6, 20.6, 17.7, 14.7, 11.8, 8.8, 5.9, 2.9, 0 ]
+        },
+        {
+          "curve_id": 5,
+          "label": "5100 in High Gear with Both Pump",
+          "injector_pull": [ 0, 0, 0, 0, 0, 453, 2993, 5532, 8071, 10611, 13150, 15681, 18203, 20726, 21274, 21822, 22370, 22917, 23465, 24013, 24561, 25095, 25614, 26133 ],
+          "coiled_tubing_speed": [ 120.9, 120.5, 120.1, 119.7, 119.3, 118.9, 118.5, 118.1, 117.7, 117.3, 116.8, 116.4, 116, 115.6, 112.7, 109.7, 106.8, 103.8, 100.9, 97.9, 95, 92, 89.1, 86.1 ]
+        }
+      ]
+    },
+    {
+      "chart_id": 91,
+      "chart_title": "Injector Head 6140 - 1.5 ID Ext Hoses 140 - ft, Incremental",
+      "x_min": 0,
+      "x_max": 140000,
+      "x_inc": 20000,
+      "y_min": 0,
+      "y_max": 150,
+      "y_inc": 30,
+      "chart_data": [
+        {
+          "curve_id": 0,
+          "label": "6140 in Low Gear with Small Pump",
+          "injector_pull": [ 0, 3164, 13005, 22845, 32686, 42526, 52367, 62207, 72047, 81888, 91728, 101569, 111409, 121249, 121719, 122189, 122659, 123125, 123585, 124045, 124505, 124964, 125424, 125884, 126342, 126796, 127250, 127704, 128157, 128611, 129065, 129519, 129973, 130426, 130880, 131334, 131788, 132242, 132695 ],
+          "coiled_tubing_speed": [ 19.7, 19.7, 19.6, 19.5, 19.4, 19.4, 19.3, 19.2, 19.2, 19.1, 19, 18.9, 18.9, 18.8, 18, 17.3, 16.5, 15.8, 15, 14.3, 13.5, 12.8, 12, 11.3, 10.5, 9.8, 9, 8.3, 7.5, 6.8, 6, 5.3, 4.5, 3.8, 3, 2.3, 1.5, 0.8, 0 ]
+        },
+        {
+          "curve_id": 1,
+          "label": "6140 in Low Gear with Large Pump",
+          "injector_pull": [ 0, 0, 0, 3583, 9520, 15457, 21394, 27332, 33269, 39206, 45143, 51081, 57018, 62955, 64182, 65129, 65981, 66833, 67685, 68537, 69389, 70241, 71093, 71936, 72777, 73619, 74460, 75286, 76109, 76933, 77756, 78570, 79383, 80195, 81008, 81821, 82634, 83447, 84260 ],
+          "coiled_tubing_speed": [ 35.5, 35.4, 35.2, 35.1, 35, 34.8, 34.7, 34.5, 34.4, 34.3, 34.1, 34, 33.8, 33.7, 32.3, 31, 29.6, 28.3, 27, 25.6, 24.3, 22.9, 21.6, 20.2, 18.9, 17.5, 16.2, 14.8, 13.5, 12.1, 10.8, 9.4, 8.1, 6.7, 5.4, 4, 2.7, 1.3, 0 ]
+        },
+        {
+          "curve_id": 2,
+          "label": "6140 in Low Gear with Both Pump",
+          "injector_pull": [ 0, 0, 0, 0, 0, 1074, 7090, 13107, 19123, 25140, 31156, 37151, 43128, 49105, 50403, 51701, 52999, 54297, 55594, 56892, 58190, 59457, 60685, 61914 ],
+          "coiled_tubing_speed": [ 55.27, 55.09, 54.9, 54.72, 54.53, 54.34, 54.16, 53.97, 53.79, 53.6, 53.42, 53.23, 53.05, 52.86, 51.51, 50.16, 48.81, 47.46, 46.11, 44.76, 43.41, 42.06, 40.71, 39.36 ]
+        },
+        {
+          "curve_id": 3,
+          "label": "6140 in High Gear with Small Pump",
+          "injector_pull": [ 0, 1438, 5911, 10384, 14857, 19330, 23803, 28276, 32749, 37222, 41695, 46168, 50640, 55113, 55327, 55540, 55754, 55966, 56175, 56384, 56593, 56802, 57011, 57220, 57428, 57635, 57841, 58047, 58253, 58460, 58666, 58872, 59078, 59285, 59491, 59697, 59904, 60110, 60316 ],
+          "coiled_tubing_speed": [ 43.2, 43, 42.9, 42.7, 42.5, 42.4, 42.2, 42.1, 41.9, 41.7, 41.6, 41.4, 41.3, 41.1, 39.4, 37.8, 36.2, 34.5, 32.9, 31.2, 29.6, 27.9, 26.3, 24.7, 23, 21.4, 19.7, 18.1, 16.4, 14.8, 13.1, 11.5, 9.9, 8.2, 6.6, 4.9, 3.3, 1.6, 0 ]
+        },
+        {
+          "curve_id": 4,
+          "label": "6140 in High Gear with Large Pump",
+          "injector_pull": [ 0, 0, 0, 1628.6, 4327.3, 7026, 9724.8, 12423.5, 15122.2, 17821, 20519.7, 23218.4, 25917.2, 28615.9, 29173.6, 29604.1, 29991.3, 30378.6, 30765.8, 31153.1, 31540.4, 31927.6, 32314.9, 32698.1, 33080.6, 33463.1, 33845.6, 34220.9, 34595.1, 34969.4, 35343.6, 35713.5, 36083, 36452.5, 36821.9, 37191.4, 37560.9, 37930.4, 38299.8 ],
+          "coiled_tubing_speed": [ 77.7, 77.4, 77.1, 76.8, 76.5, 76.2, 75.9, 75.6, 75.2, 74.9, 74.6, 74.3, 74, 73.7, 70.7, 67.8, 64.9, 61.9, 59, 56, 53.1, 50.1, 47.2, 44.2, 41.3, 38.3, 35.4, 32.4, 29.5, 26.5, 23.6, 20.6, 17.7, 14.7, 11.8, 8.8, 5.9, 2.9, 0 ]
+        },
+        {
+          "curve_id": 5,
+          "label": "6140 in High Gear with Both Pump",
+          "injector_pull": [ 0, 0, 0, 0, 0, 488, 3223, 5958, 8692, 11427, 14162, 16887, 19604, 22321, 22911, 23500, 24090, 24680, 25270, 25860, 26450, 27026, 27584, 28143 ],
+          "coiled_tubing_speed": [ 120.9, 120.5, 120.1, 119.7, 119.3, 118.9, 118.5, 118.1, 117.7, 117.3, 116.8, 116.4, 116, 115.6, 112.7, 109.7, 106.8, 103.8, 100.9, 97.9, 95, 92, 89.1, 86.1 ]
+        }
+      ]
+    },
+    {
+      "chart_id": 100,
+      "chart_title": "Injector Head 560 - 1.25 ID Ext Hoses 140 - ft, NTSP Inc",
+      "x_min": 0,
+      "x_max": 70000,
+      "x_inc": 10000,
+      "y_min": 0,
+      "y_max": 180,
+      "y_inc": 30,
+      "chart_data": [
+        {
+          "curve_id": 0,
+          "label": "560 in Low Gear with Small/Large Pump",
+          "index": 13,
+          "k": -0.0000424,
+          "b": 49.734,
+          "injector_pull": [ 0, 0, 3217, 7575, 11934, 16293, 20652, 25011, 29370, 33728, 38087, 42446, 46805, 51164, 51486, 51807, 52127, 52446, 52766, 53085, 53405, 53720, 54034, 54349, 54663, 54977, 55291, 55603, 55914, 56225, 56536, 56847, 57158, 57469, 57780, 58091, 58402, 58713, 59024 ],
+          "coiled_tubing_speed": [ 50, 49.8, 49.6, 49.4, 49.2, 49, 48.9, 48.7, 48.5, 48.3, 48.1, 47.9, 47.7, 47.6, 45.7, 43.8, 41.9, 40, 38.1, 36.1, 34.2, 32.3, 30.4, 28.5, 26.6, 24.7, 22.8, 20.9, 19, 17.1, 15.2, 13.3, 11.4, 9.5, 7.6, 5.7, 3.8, 1.9, 0 ]
+        },
+        {
+          "curve_id": 2,
+          "label": "560 in Low Gear with Both Pump",
+          "index": 2,
+          "k": -0.0001222,
+          "b": 98.179,
+          "injector_pull": [ 21961.9, 22764, 25859, 26424, 26990, 27513, 27943, 28374, 28804, 29235, 29665, 30096, 30526, 30957, 31387, 31818, 31825.1 ],
+          "coiled_tubing_speed": [ 95.4985, 95.4, 95.02, 93.15, 91.28, 89.4, 87.53, 85.66, 83.79, 81.91, 80.04, 78.17, 76.3, 74.43, 72.55, 70.68, 70.6492 ]
+        },
+        {
+          "curve_id": 3,
+          "label": "560 in High Gear with Small/Large Pump",
+          "index": 13,
+          "k": -0.0000946,
+          "b": 73.680,
+          "injector_pull": [ 0, 0, 2137, 5032, 7927, 10822, 13718, 16613, 19508, 22404, 25299, 28194, 31089, 33985, 34199, 34412, 34624, 34836, 35049, 35261, 35473, 35659.6 ],
+          "coiled_tubing_speed": [ 74, 73.8, 73.5, 73.2, 72.9, 72.7, 72.4, 72.1, 71.8, 71.6, 71.3, 71, 70.7, 70.5, 67.6, 64.8, 62, 59.2, 56.4, 53.6, 50.7, 48.2114 ]
+        },
+        {
+          "curve_id": 5,
+          "label": "560 in High Gear with Both Pump",
+          "index": 13,
+          "k": -0.000272,
+          "b": 145.45,
+          "injector_pull": [ 0, 0, 0, 0, 0, 729, 2785, 4841, 6897, 8953, 11009, 13064, 15120, 17176, 17552, 17928, 18275, 18561, 18847, 19133, 19419, 19705, 19990, 20276, 20562, 20848, 21134, 21420, 21684, 21894, 22105, 22316, 22526, 22737, 22948, 23158, 23369, 23580, 23790 ],
+          "coiled_tubing_speed": [ 148.1, 147.5, 146.9, 146.4, 145.8, 145.3, 144.7, 144.1, 143.6, 143, 142.5, 141.9, 141.3, 140.8, 138, 135.2, 132.4, 129.7, 126.9, 124.1, 121.4, 118.6, 115.8, 113, 110.3, 107.5, 104.7, 101.9, 99.2, 96.4, 93.6, 90.8, 88.1, 85.3, 82.5, 79.7, 77, 74.2, 71.4 ]
+        }
+      ]
+    },
+    {
+      "chart_id": 101,
+      "chart_title": "Injector Head 560 - 1.5 ID Ext Hoses 140 - ft, NTSP Inc",
+      "x_min": 0,
+      "x_max": 70000,
+      "x_inc": 10000,
+      "y_min": 0,
+      "y_max": 180,
+      "y_inc": 30,
+      "chart_data": [
+        {
+          "curve_id": 0,
+          "label": "560 in Low Gear with Small/Large Pump",
+          "index": 13,
+          "k": -0.0000425,
+          "b": 49.810,
+          "injector_pull": [ 0, 656, 5008, 9361, 13713, 18065, 22417, 26769, 31121, 35473, 39826, 44178, 48530, 52882, 53136, 53388, 53639, 53889, 54140, 54391, 54642, 54889, 55134, 55379, 55625, 55870, 56116, 56359, 56601, 56843, 57085, 57328, 57570, 57812, 58055, 58297, 58539, 58781, 59024 ],
+          "coiled_tubing_speed": [ 50, 49.8, 49.6, 49.4, 49.2, 49, 48.9, 48.7, 48.5, 48.3, 48.1, 47.9, 47.7, 47.6, 45.7, 43.8, 41.9, 40, 38.1, 36.1, 34.2, 32.3, 30.4, 28.5, 26.6, 24.7, 22.8, 20.9, 19, 17.1, 15.2, 13.3, 11.4, 9.5, 7.6, 5.7, 3.8, 1.9, 0 ]
+        },
+        {
+          "curve_id": 2,
+          "label": "560 in Low Gear with Both Pump",
+          "index": 2,
+          "k": -0.0001172,
+          "b": 98.751,
+          "injector_pull": [ 23136.3, 25171, 28110, 28551, 28993, 29432, 29853, 30273, 30694, 31115, 31536, 31957, 32378, 32798, 33219, 33640, 33693.8 ],
+          "coiled_tubing_speed": [ 96.0354, 95.8, 95.46, 93.57, 91.68, 89.79, 87.9, 86.01, 84.12, 82.23, 80.34, 78.45, 76.56, 74.67, 72.78, 70.89, 70.6486 ]
+        },
+        {
+          "curve_id": 3,
+          "index": 13,
+          "k": -0.0000948,
+          "b": 73.808,
+          "label": "560 in High Gear with Small/Large Pump",
+          "injector_pull": [ 0, 436, 3327, 6218, 9108, 11999, 14890, 17781, 20672, 23563, 26454, 29344, 32235, 35126, 35295, 35462, 35629, 35795, 35962, 36128, 36295, 36438.2 ],
+          "coiled_tubing_speed": [ 74, 73.8, 73.5, 73.2, 72.9, 72.7, 72.4, 72.1, 71.8, 71.6, 71.3, 71, 70.8, 70.5, 67.7, 64.8, 62, 59.2, 56.4, 53.6, 50.7, 48.2557 ]
+        },
+        {
+          "curve_id": 5,
+          "index": 13,
+          "k": -0.000262,
+          "b": 146.33,
+          "label": "560 in High Gear with Both Pump",
+          "injector_pull": [ 0, 0, 0, 0, 1101, 3053, 5006, 6958, 8910, 10863, 12815, 14767, 16719, 18672, 18965, 19258, 19550, 19829, 20109, 20388, 20668, 20947, 21227, 21506, 21786, 22065, 22345, 22624, 22889, 23095, 23300, 23506, 23712, 23918, 24124, 24330, 24536, 24742, 24942.8 ],
+          "coiled_tubing_speed": [ 148.1, 147.6, 147.1, 146.5, 146, 145.5, 145, 144.5, 144, 143.5, 143, 142.5, 142, 141.4, 138.6, 135.8, 133, 130.2, 127.4, 124.6, 121.8, 119, 116.2, 113.4, 110.6, 107.8, 105, 102.2, 99.4, 96.6, 93.8, 91, 88.2, 85.4, 82.6, 79.8, 77, 74.2, 71.4568 ]
+        }
+      ]
+    },
+    {
+      "chart_id": 102,
+      "chart_title": "Injector Head 580 - 1.25 ID Ext Hoses 140 - ft, NTSP Inc",
+      "x_min": 0,
+      "x_max": 90000,
+      "x_inc": 10000,
+      "y_min": 0,
+      "y_max": 180,
+      "y_inc": 30,
+      "chart_data": [
+        {
+          "curve_id": 0,
+          "label": "580 in Low Gear with Small/Large Pump",
+          "index": 13,
+          "k": -0.0000237,
+          "b": 36.84,
+          "injector_pull": [ 0, 0, 4273, 10064, 15854, 21645, 27435, 33226, 39017, 44807, 50598, 56388, 62179, 67969, 68398, 68824, 69248, 69673, 70097, 70522, 70946, 71366, 71783, 72200, 72618, 73035, 73452, 73866, 74279, 74692, 75106, 75519, 75932, 76345, 76758, 77171, 77585, 77998, 78411 ],
+          "coiled_tubing_speed": [ 37, 36.9, 36.7, 36.6, 36.5, 36.3, 36.2, 36.1, 35.9, 35.8, 35.6, 35.5, 35.4, 35.2, 33.8, 32.4, 31, 29.6, 28.2, 26.8, 25.4, 24, 22.5, 21.1, 19.7, 18.3, 16.9, 15.5, 14.1, 12.7, 11.3, 9.9, 8.5, 7, 5.6, 4.2, 2.8, 1.4, 0 ]
+        },
+        {
+          "curve_id": 2,
+          "label": "580 in Low Gear with Both Pump",
+          "index": 2,
+          "k": -0.0000681,
+          "b": 72.725,
+          "injector_pull": [ 28832.8, 30241, 34353, 35104, 35855, 36550, 37121, 37693, 38265, 38837, 39409, 39981, 40553, 41125, 41697, 42006.7 ],
+          "coiled_tubing_speed": [ 70.7593, 70.66, 70.38, 69, 67.61, 66.22, 64.84, 63.45, 62.06, 60.68, 59.29, 57.9, 56.52, 55.13, 53.74, 52.9929 ]
+        },
+        {
+          "curve_id": 3,
+          "label": "580 in High Gear with Small/Large Pump",
+          "index": 13,
+          "k": -0.0000543,
+          "b": 55.260,
+          "injector_pull": [ 0, 0, 2794, 6580, 10366, 14152, 17939, 21725, 25511, 29297, 33083, 36869, 40655, 44442, 44722, 45000, 45278, 45555, 45833, 46110, 46388, 46662, 46683.4 ],
+          "coiled_tubing_speed": [ 55.5, 55.3, 55.1, 54.9, 54.7, 54.5, 54.3, 54.1, 53.9, 53.7, 53.5, 53.3, 53.1, 52.8, 50.7, 48.6, 46.5, 44.4, 42.3, 40.2, 38.1, 35.9, 35.7352 ]
+        },
+        {
+          "curve_id": 5,
+          "label": "580 in High Gear with Both Pump",
+          "index": 13,
+          "k": -0.000156,
+          "b": 109.09,
+          "injector_pull": [ 0, 0, 0, 0, 0, 953, 3642, 6330, 9019, 11707, 14396, 17084, 19773, 22461, 22953, 23444, 23898, 24272, 24646, 25020, 25394, 25767, 26141, 26515, 26889, 27263, 27637, 28011, 28355, 28631, 28906, 29182, 29457, 29733, 30008, 30284, 30560, 30835, 31110.4 ],
+          "coiled_tubing_speed": [ 111, 110.6, 110.2, 109.8, 109.4, 108.9, 108.5, 108.1, 107.7, 107.3, 106.8, 106.4, 106, 105.6, 103.5, 101.4, 99.3, 97.3, 95.2, 93.1, 91, 88.9, 86.9, 84.8, 82.7, 80.6, 78.5, 76.5, 74.4, 72.3, 70.2, 68.1, 66.1, 64, 61.9, 59.8, 57.7, 55.7, 53.6042 ]
+        }
+      ]
+    },
+    {
+      "chart_id": 105,
+      "chart_title": "Injector Head 5100 - 1.5 ID Ext Hoses 140 - ft, NTSP Inc",
+      "x_min": 0,
+      "x_max": 100000,
+      "x_inc": 10000,
+      "y_min": 0,
+      "y_max": 150,
+      "y_inc": 30,
+      "chart_data": [
+        {
+          "curve_id": 0,
+          "label": "5100 in Low Gear with Small/Large Pump",
+          "index": 13,
+          "k": -0.0000167,
+          "b": 30.993,
+          "injector_pull": [ 0, 1039, 7933, 14827, 21720, 28614, 35507, 42401, 49294, 56188, 63081, 69975, 83073, 83762, 84164, 84563, 84961, 85358, 85755, 86152, 86549, 86940, 87329, 87718, 88107, 88495, 88884, 89269, 89652, 90036, 90420, 90804, 91187, 91571, 91955, 92339, 92722, 93106, 93490 ],
+          "coiled_tubing_speed": [ 31.1, 31, 30.9, 30.7, 30.6, 30.5, 30.4, 30.3, 30.2, 30.1, 29.9, 29.8, 29.6, 29.6, 28.4, 27.2, 26, 24.9, 23.7, 22.5, 21.3, 20.1, 18.9, 17.8, 16.6, 15.4, 14.2, 13, 11.8, 10.7, 9.5, 8.3, 7.1, 5.9, 4.7, 3.6, 2.4, 1.2, 0 ]
+        },
+        {
+          "curve_id": 2,
+          "label": "5100 in Low Gear with Both Pump",
+          "index": 3,
+          "k": -0.0000461,
+          "b": 61.445,
+          "injector_pull": [ 34441, 37205, 46395, 46878, 47483, 48088, 48687, 49259, 49832, 50404, 50977, 51549, 52122, 52695, 53267, 53840, 54412, 54985, 55515, 55912, 56310, 56707, 57105, 57502, 57900, 58297, 58695, 59092, 59488.6 ],
+          "coiled_tubing_speed": [ 59.8557, 59.73, 59.31, 59.29, 58.11, 56.94, 55.77, 54.6, 53.43, 52.26, 51.09, 49.91, 48.74, 47.57, 46.4, 45.23, 44.06, 42.89, 41.71, 40.54, 39.37, 38.2, 37.03, 35.86, 34.69, 33.51, 32.34, 31.17, 30.0042 ]
+        },
+        {
+          "curve_id": 3,
+          "label": "5100 in High Gear with Small/Large Pump",
+          "index": 13,
+          "k": -0.0000464,
+          "b": 51.655,
+          "injector_pull": [ 0, 623, 4752, 8882, 13012, 17142, 21272, 25401, 29531, 33661, 37791, 41921, 49767, 50180, 50421, 50660, 50898, 51136, 51374, 51612, 51850, 52084, 52317, 52485.5 ],
+          "coiled_tubing_speed": [ 51.8, 51.6, 51.4, 51.2, 51.1, 50.9, 50.7, 50.5, 50.3, 50.1, 49.9, 49.7, 49.3, 49.3, 47.4, 45.4, 43.4, 41.4, 39.5, 37.5, 35.5, 33.5, 31.6, 30.1537 ]
+        },
+        {
+          "curve_id": 5,
+          "label": "5100 in High Gear with Both Pump",
+          "index": 13,
+          "k": -0.0001281,
+          "b": 102.409,
+          "injector_pull": [ 0, 0, 0, 0, 2007, 4904, 7802, 10699, 13597, 16494, 19392, 22289, 27794, 28084, 28446, 28809, 29167, 29510, 29853, 30196, 30539, 30882, 31225, 31568, 31911, 32254, 32597, 32940, 33258, 33496, 33734, 33972, 34210, 34448, 34687, 34925, 35163, 35401, 35638.5 ],
+          "coiled_tubing_speed": [ 103.6, 103.3, 102.9, 102.5, 102.2, 101.8, 101.4, 101, 100.7, 100.3, 99.9, 99.6, 98.8, 98.8, 96.9, 94.9, 93, 91, 89, 87.1, 85.1, 83.2, 81.2, 79.3, 77.3, 75.4, 73.4, 71.5, 69.5, 67.6, 65.6, 63.7, 61.7, 59.8, 57.8, 55.9, 53.9, 52, 50.0042 ]
+        }
+      ]
+    },
+    {
+      "chart_id": 111,
+      "chart_title": "Injector Head 6140 - 1.5 ID Ext Hoses 140 - ft, NTSP Inc",
+      "x_min": 0,
+      "x_max": 140000,
+      "x_inc": 20000,
+      "y_min": 0,
+      "y_max": 150,
+      "y_inc": 30,
+      "chart_data": [
+        {
+          "curve_id": 0,
+          "label": "6140 in Low Gear with Small/Large Pump",
+          "index": 13,
+          "k": -0.00000896,
+          "b": 23.6138,
+          "injector_pull": [ 0, 1475, 11260, 21044, 30829, 40613, 50397, 60182, 69966, 79751, 89535, 99319, 117910, 118888, 119459, 120025, 120589, 121153, 121717, 122281, 122844, 123399, 123951, 124503, 125055, 125606, 126158, 126704, 127249, 127793, 128338, 128883, 129427, 129972, 130517, 131061, 131606, 132151, 132695 ],
+          "coiled_tubing_speed": [ 23.7, 23.6, 23.5, 23.4, 23.3, 23.2, 23.2, 23.1, 23, 22.9, 22.8, 22.7, 22.6, 22.5, 21.6, 20.7, 19.8, 18.9, 18, 17.1, 16.2, 15.3, 14.4, 13.5, 12.6, 11.7, 10.8, 9.9, 9, 8.1, 7.2, 6.3, 5.4, 4.5, 3.6, 2.7, 1.8, 0.9, 0 ]
+        },
+        {
+          "curve_id": 2,
+          "label": "6140 in Low Gear with Both Pump",
+          "index": 2,
+          "k": -0.0000247,
+          "b": 46.815,
+          "injector_pull": [ 54548.4, 65851, 66537, 67396, 68254, 69104, 69916, 70729, 71542, 72354, 73167, 73980, 74792, 75605, 76418, 77230, 78043, 78795, 79359, 79923, 80488, 81052, 81616, 82180, 82745, 83309, 83873, 84437 ],
+          "coiled_tubing_speed": [ 45.4673, 45.19, 45.17, 44.28, 43.39, 42.49, 41.6, 40.71, 39.82, 38.92, 38.03, 37.14, 36.25, 35.35, 34.46, 33.57, 32.67, 31.78, 30.89, 30, 29.1, 28.21, 27.32, 26.43, 25.53, 24.64, 23.75, 22.86 ]
+        },
+        {
+          "curve_id": 3,
+          "label": "6140 in High Gear with Small/Large Pump",
+          "index": 13,
+          "k": -0.0000431,
+          "b": 51.655,
+          "injector_pull": [ 0, 671, 5118, 9566, 14013, 18460, 22908, 27355, 31803, 36250, 40698, 45145, 53595, 54040, 54300, 54557, 54813, 55070, 55326, 55582, 55838, 56091, 56341, 56592, 56843, 57094, 57345, 57415.9 ],
+          "coiled_tubing_speed": [ 51.8, 51.6, 51.4, 51.2, 51.1, 50.9, 50.7, 50.5, 50.3, 50.1, 49.9, 49.7, 49.3, 49.3, 47.4, 45.4, 43.4, 41.4, 39.5, 37.5, 35.5, 33.5, 31.6, 29.6, 27.6, 25.6, 23.7, 23.1283 ]
+        },
+        {
+          "curve_id": 5,
+          "label": "6140 in High Gear with Both Pump",
+          "index": 13,
+          "k": -0.000119,
+          "b": 102.409,
+          "injector_pull": [ 0, 0, 0, 0, 2161, 5282, 8402, 11522, 14643, 17763, 20883, 24004, 29932, 30244, 30634, 31025, 31411, 31780, 32150, 32519, 32888, 33258, 33627, 33996, 34366, 34735, 35105, 35474, 35816, 36072, 36329, 36585, 36842, 37098, 37355, 37611, 37868, 38124, 38380.5 ],
+          "coiled_tubing_speed": [ 103.6, 103.3, 102.9, 102.5, 102.2, 101.8, 101.4, 101, 100.7, 100.3, 99.9, 99.6, 98.8, 98.8, 96.9, 94.9, 93, 91, 89, 87.1, 85.1, 83.2, 81.2, 79.3, 77.3, 75.4, 73.4, 71.5, 69.5, 67.6, 65.6, 63.7, 61.7, 59.8, 57.8, 55.9, 53.9, 52, 50.0042 ]
+        }
+      ]
+    }
+  ]
+}
